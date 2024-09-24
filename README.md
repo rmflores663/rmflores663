@@ -1,6 +1,6 @@
--  Hi, I’m @rmflores663, or just Ricardo
+-  Hi, I’m Ricardo Flores
 -  I’m interested in Game Development, Programming, and all things coding
--  I’m currently learning 3D based programing in Unity using C#
+-  I’m currently studying Computer Science at RPI
 -  Programing languages known: Java, Python, C#, C++, javascript
 -  You can reach me at rmflores663@gmail.com
 
